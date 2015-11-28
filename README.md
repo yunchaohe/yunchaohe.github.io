@@ -1,7 +1,5 @@
-yunchaohe.github.io
-===================
+# yunchaohe.github.io
 
-This is my personal homepage website
+This is my personal homepage website, http://yunchaohe.github.io/
 
-yunchaohe@gmail.com
-=============================
+Email: yunchaohe@hotmail.com
